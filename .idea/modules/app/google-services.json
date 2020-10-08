@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487914552157",
+    "firebase_url": "https://budgetr-3debc.firebaseio.com",
+    "project_id": "budgetr-3debc",
+    "storage_bucket": "budgetr-3debc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487914552157:android:5f2cb29ef77c05509246b4",
+        "android_client_info": {
+          "package_name": "com.budgetr.budgetr2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487914552157-12j7932bs04d5j0u811o6e5g2lrrcd79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.budgetr.budgetr2",
+            "certificate_hash": "d309a007b0356f057763547a82e50192614b0c98"
+          }
+        },
+        {
+          "client_id": "487914552157-kna9elacit8f2s9t20mo683vb2kdpim5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmWm5d2xZRUR9AOgKi33pZ3sIYgAoivjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487914552157-kna9elacit8f2s9t20mo683vb2kdpim5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
